@@ -1,0 +1,1450 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">"
+<Styles> 
+ <Style ss:ID="Default" ss:Name="Normal"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss"/>
+ <Interior/>
+<NumberFormat/> 
+ <Protection/> 
+ </Style> 
+ <Style ss:ID="s62"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/></Style> 
+<Style ss:ID="s66"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/></Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1" ss:Size="10"/><Interior ss:Color="#DCE6F1" ss:Pattern="Solid"/></Style></Styles><Worksheet ss:Name="Goodcocktails1">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Goodcocktails1 ID</Column>
+<Column ss:Width="100">name</Column>
+<Column ss:Width="100">url</Column>
+<Column ss:Width="100">image</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Goodcocktails1 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">name</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">url</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">image</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">15929c37-9468-4bc9-b83f-5cd30c3d05b6</Data></Cell>
+<Cell><Data ss:Type="String">007</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=192</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/007.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3b2b1be-e25f-4229-aac8-a848716444a0</Data></Cell>
+<Cell><Data ss:Type="String">24 Karat Nightmare</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1266</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/shotglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b2a1a71e-9cc9-44a5-8abf-e98f5524e92c</Data></Cell>
+<Cell><Data ss:Type="String">4th of July Tooter</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=431</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/4th_july_tooter.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">57 Chevy</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=181</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/57_chevy.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4a211cf3-27a9-4201-80a7-edd99b145464</Data></Cell>
+<Cell><Data ss:Type="String">57 Chevy #2</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=203</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/57_chevy2.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String">747</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=182</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/747.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8c4d6539-a8bc-4ad4-b942-6249ee04a12f</Data></Cell>
+<Cell><Data ss:Type="String">8 Seconds</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1703</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/shotglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">911 Fuck Me Up</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=114</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/collinsglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c97ad420-9369-4732-b273-d0060de30a21</Data></Cell>
+<Cell><Data ss:Type="String">A Day At The Beach</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=674</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/day_at_beach.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0c378fd2-032b-4de9-a9a8-a22839e6e5b9</Data></Cell>
+<Cell><Data ss:Type="String">A Furlong Too Late</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=2254</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/highballglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">A Fuzzy Thing</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1608</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/highballglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">A Night In Old Mandalay</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=2256</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/highballglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String">A Piece Of Ass</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=210</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/brandy_sour.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">295db2cb-a3cc-4693-a521-b410923309ab</Data></Cell>
+<Cell><Data ss:Type="String">A-Bomb</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1602</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a895137-f0b7-484b-81b7-e347809ac5cf</Data></Cell>
+<Cell><Data ss:Type="String">ABC</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1130</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/abc.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f4793c03-9967-41f8-a0d8-8770be43e9ae</Data></Cell>
+<Cell><Data ss:Type="String">ABC #2</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1638</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/shotglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8175e448-e3c5-4845-82c4-afb3a65f32e8</Data></Cell>
+<Cell><Data ss:Type="String">Abbey Cocktail</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=685</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/abbey.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9eecf1c5-c2e9-429e-8eba-6c9c22220eec</Data></Cell>
+<Cell><Data ss:Type="String">Aberfoyle</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1601</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/oldfashionedglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cc07ab4d-52f0-4c2f-abfc-26c39aa5be9b</Data></Cell>
+<Cell><Data ss:Type="String">Abilene</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=2252</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/highballglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">362c3bd7-545a-4b3a-a15e-12e2481c7623</Data></Cell>
+<Cell><Data ss:Type="String">Absinthe Cocktail</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1538</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b1bc3bce-1725-44f2-a914-e629025f8854</Data></Cell>
+<Cell><Data ss:Type="String">Absinthe Cocktail #2</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1604</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">141e135f-5ce9-4242-b6aa-447422a27f59</Data></Cell>
+<Cell><Data ss:Type="String">Absinthe Drip</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1537</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/oldfashionedglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa8b8890-8f22-43e1-bcf3-8a56880548e8</Data></Cell>
+<Cell><Data ss:Type="String">Absinthe Special Cocktail</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=677</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/white_spider.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4908afa8-4388-426f-9c6c-ab06df9e0aa0</Data></Cell>
+<Cell><Data ss:Type="String">Absolut Royal Fuck</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1603</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/woo_woo.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b7f26a04-6210-406e-8961-051dfbe5643d</Data></Cell>
+<Cell><Data ss:Type="String">Absolut Sex</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1383</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/highballglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b0c0f7a9-67f5-4799-b1a4-1061f2cf7d14</Data></Cell>
+<Cell><Data ss:Type="String">Acapulco</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1605</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1f07537e-28c3-4e35-86b5-a9ed75ba7099</Data></Cell>
+<Cell><Data ss:Type="String">Acid</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1606</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/shotglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">Acid Cookie</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1384</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/shotglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">805c4d48-fcc8-46dd-a9c7-ab93c5caed1d</Data></Cell>
+<Cell><Data ss:Type="String">Adam</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=2253</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47f7ef0c-5dc8-42bb-a53e-428ad038c06f</Data></Cell>
+<Cell><Data ss:Type="String">Adam And Eve</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=686</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">Adios Mother Fucker (A.M.F.)</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=13</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/adios.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">78d525d3-9615-4dd9-8f67-92250194d69f</Data></Cell>
+<Cell><Data ss:Type="String">Adonis Cocktail</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=693</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/adonis_cocktail.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String">Affair</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=696</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/highballglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8d64b6a5-c730-497b-9b47-231b6137cf71</Data></Cell>
+<Cell><Data ss:Type="String">Affinity Cocktail</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=701</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/affinity_cocktail.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b5a7e8b5-7962-4e9f-b4c3-e19f1164f41e</Data></Cell>
+<Cell><Data ss:Type="String">After Dinner Cocktail</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=702</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/after_dinner.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cb8ff6ca-3137-4b6f-9d45-6fe1103e54f6</Data></Cell>
+<Cell><Data ss:Type="String">After Eight</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1334</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/shotglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a1da371-e5bc-4cc2-9323-67befe076cc1</Data></Cell>
+<Cell><Data ss:Type="String">After Five</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1335</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/shotglass.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">83a5d251-2453-4fbd-82ca-da4a4ac06414</Data></Cell>
+<Cell><Data ss:Type="String">After Sex</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1182</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/tequilasunrise.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d3352b32-853e-4b5c-8299-1aa6edc14c5e</Data></Cell>
+<Cell><Data ss:Type="String">Afternoon Delight</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1607</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">da7dffb1-3c58-4682-a80f-e47f09a3823c</Data></Cell>
+<Cell><Data ss:Type="String">Agent Orange</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1609</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/fuzzynavel.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e31e5493-720c-4d73-840d-58f78a128228</Data></Cell>
+<Cell><Data ss:Type="String">Agincourt</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=2546</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/glasses/martini.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">Agua De Horchata</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1218</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/horchata.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String">Agua De Jamaica</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1219</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/jamaica.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String">Agua De Tamarindo</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=1217</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/tamarindo.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">deefba0b-8950-4b5f-9f1b-959b4645eb09</Data></Cell>
+<Cell><Data ss:Type="String">Alabama Fizz</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=687</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/alabama_fizz.jpg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2a2e630-3a56-471b-9c55-0b45c5009b5f</Data></Cell>
+<Cell><Data ss:Type="String">Alabama Slammer</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/mixed_drink.php?drinkID=35</Data></Cell>
+<Cell><Data ss:Type="String">https://www.goodcocktails.com/recipes/drinks/alabama_slammer.jpg</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeIngredients">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Goodcocktails1 ID</Column>
+<Column ss:Width="100">recipeIngredient</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Goodcocktails1 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeIngredient</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">15929c37-9468-4bc9-b83f-5cd30c3d05b6</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Orange Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">15929c37-9468-4bc9-b83f-5cd30c3d05b6</Data></Cell>
+<Cell><Data ss:Type="String">Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">15929c37-9468-4bc9-b83f-5cd30c3d05b6</Data></Cell>
+<Cell><Data ss:Type="String">Lemon-Lime Soda</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3b2b1be-e25f-4229-aac8-a848716444a0</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Goldschl&#228;ger&#174; Cinnamon Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3b2b1be-e25f-4229-aac8-a848716444a0</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. After Shock&#174; Cinnamon Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b2a1a71e-9cc9-44a5-8abf-e98f5524e92c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Grenadine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b2a1a71e-9cc9-44a5-8abf-e98f5524e92c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Blue Curacao</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b2a1a71e-9cc9-44a5-8abf-e98f5524e92c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Grand Marnier&#174; Orange Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Southern Comfort&#174;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Pineapple Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">Dash of Grenadine (Optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4a211cf3-27a9-4201-80a7-edd99b145464</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Southern Comfort&#174;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4a211cf3-27a9-4201-80a7-edd99b145464</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4a211cf3-27a9-4201-80a7-edd99b145464</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Grand Marnier&#174; Orange Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4a211cf3-27a9-4201-80a7-edd99b145464</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Pineapple Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Coffee Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Hazelnut Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Irish Cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8c4d6539-a8bc-4ad4-b942-6249ee04a12f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. J&#228;germeister&#174;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8c4d6539-a8bc-4ad4-b942-6249ee04a12f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Goldschl&#228;ger&#174; Cinnamon Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8c4d6539-a8bc-4ad4-b942-6249ee04a12f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Peppermint Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8c4d6539-a8bc-4ad4-b942-6249ee04a12f</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Cinnamon Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Raspberry Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Coconut Rum</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Black Currant Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Melon Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Grand Marnier&#174; Orange Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">Cranberry Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">Pineapple Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c97ad420-9369-4732-b273-d0060de30a21</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Coconut Rum</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c97ad420-9369-4732-b273-d0060de30a21</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c97ad420-9369-4732-b273-d0060de30a21</Data></Cell>
+<Cell><Data ss:Type="String">Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c97ad420-9369-4732-b273-d0060de30a21</Data></Cell>
+<Cell><Data ss:Type="String">Splash of Grenadine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0c378fd2-032b-4de9-a9a8-a22839e6e5b9</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Rum (Light)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0c378fd2-032b-4de9-a9a8-a22839e6e5b9</Data></Cell>
+<Cell><Data ss:Type="String">Ginger Beer</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Citrus Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Peach Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Triple Sec</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">Pineapple Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">Splash of Sweet &amp; Sour Mix</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Rum (Light)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Rum (A&#241;ejo)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Lemon Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">Ginger Ale</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Southern Comfort&#174;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String">Sweet &amp; Sour Mix</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">295db2cb-a3cc-4693-a521-b410923309ab</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">295db2cb-a3cc-4693-a521-b410923309ab</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Coffee Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">295db2cb-a3cc-4693-a521-b410923309ab</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Irish Cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">295db2cb-a3cc-4693-a521-b410923309ab</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Tia Maria&#174; Coffee Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a895137-f0b7-484b-81b7-e347809ac5cf</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a895137-f0b7-484b-81b7-e347809ac5cf</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Irish Cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a895137-f0b7-484b-81b7-e347809ac5cf</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Cognac</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f4793c03-9967-41f8-a0d8-8770be43e9ae</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f4793c03-9967-41f8-a0d8-8770be43e9ae</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Irish Cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f4793c03-9967-41f8-a0d8-8770be43e9ae</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Cointreau&#174; Orange Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8175e448-e3c5-4845-82c4-afb3a65f32e8</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Gin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8175e448-e3c5-4845-82c4-afb3a65f32e8</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8175e448-e3c5-4845-82c4-afb3a65f32e8</Data></Cell>
+<Cell><Data ss:Type="String">Dash of Orange Bitters</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9eecf1c5-c2e9-429e-8eba-6c9c22220eec</Data></Cell>
+<Cell><Data ss:Type="String">3 oz. Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9eecf1c5-c2e9-429e-8eba-6c9c22220eec</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Drambuie&#174;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cc07ab4d-52f0-4c2f-abfc-26c39aa5be9b</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Rum (Dark)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cc07ab4d-52f0-4c2f-abfc-26c39aa5be9b</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Peach Nectar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cc07ab4d-52f0-4c2f-abfc-26c39aa5be9b</Data></Cell>
+<Cell><Data ss:Type="String">Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">362c3bd7-545a-4b3a-a15e-12e2481c7623</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Absinthe</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">362c3bd7-545a-4b3a-a15e-12e2481c7623</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Gin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">362c3bd7-545a-4b3a-a15e-12e2481c7623</Data></Cell>
+<Cell><Data ss:Type="String">2 Dashes of Orange Bitters</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">362c3bd7-545a-4b3a-a15e-12e2481c7623</Data></Cell>
+<Cell><Data ss:Type="String">Splash of Simple Syrup (Optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b1bc3bce-1725-44f2-a914-e629025f8854</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Absinthe</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b1bc3bce-1725-44f2-a914-e629025f8854</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b1bc3bce-1725-44f2-a914-e629025f8854</Data></Cell>
+<Cell><Data ss:Type="String">2 Dashes of Bitters</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b1bc3bce-1725-44f2-a914-e629025f8854</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp. Sugar (Optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">141e135f-5ce9-4242-b6aa-447422a27f59</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Absinthe</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">141e135f-5ce9-4242-b6aa-447422a27f59</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">141e135f-5ce9-4242-b6aa-447422a27f59</Data></Cell>
+<Cell><Data ss:Type="String">1 Cube of Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa8b8890-8f22-43e1-bcf3-8a56880548e8</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Anisette</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa8b8890-8f22-43e1-bcf3-8a56880548e8</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa8b8890-8f22-43e1-bcf3-8a56880548e8</Data></Cell>
+<Cell><Data ss:Type="String">1/2 tsp. Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa8b8890-8f22-43e1-bcf3-8a56880548e8</Data></Cell>
+<Cell><Data ss:Type="String">Dash of Orange Bitters</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4908afa8-4388-426f-9c6c-ab06df9e0aa0</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Black Currant Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4908afa8-4388-426f-9c6c-ab06df9e0aa0</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Crown Royal&#174; Canadian Whisky</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4908afa8-4388-426f-9c6c-ab06df9e0aa0</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Peach Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4908afa8-4388-426f-9c6c-ab06df9e0aa0</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Cranberry Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b7f26a04-6210-406e-8961-051dfbe5643d</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Black Currant Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b7f26a04-6210-406e-8961-051dfbe5643d</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Melon Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b7f26a04-6210-406e-8961-051dfbe5643d</Data></Cell>
+<Cell><Data ss:Type="String">Cranberry Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b7f26a04-6210-406e-8961-051dfbe5643d</Data></Cell>
+<Cell><Data ss:Type="String">Lemon-Lime Soda</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b0c0f7a9-67f5-4799-b1a4-1061f2cf7d14</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Rum (Light)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b0c0f7a9-67f5-4799-b1a4-1061f2cf7d14</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Triple Sec</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b0c0f7a9-67f5-4799-b1a4-1061f2cf7d14</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Lime Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b0c0f7a9-67f5-4799-b1a4-1061f2cf7d14</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp. Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1f07537e-28c3-4e35-86b5-a9ed75ba7099</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Rum (151-Proof)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1f07537e-28c3-4e35-86b5-a9ed75ba7099</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Wild Turkey&#174; Bourbon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1f07537e-28c3-4e35-86b5-a9ed75ba7099</Data></Cell>
+<Cell><Data ss:Type="String">Cola</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Peppermint Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Irish Cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Butterscotch Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Rum (151-Proof)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">Splash of Cream / Half &amp; Half</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">805c4d48-fcc8-46dd-a9c7-ab93c5caed1d</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Rum (Dark)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">805c4d48-fcc8-46dd-a9c7-ab93c5caed1d</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Lemon Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">805c4d48-fcc8-46dd-a9c7-ab93c5caed1d</Data></Cell>
+<Cell><Data ss:Type="String">Splash of Grenadine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47f7ef0c-5dc8-42bb-a53e-428ad038c06f</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Gin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47f7ef0c-5dc8-42bb-a53e-428ad038c06f</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Brandy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47f7ef0c-5dc8-42bb-a53e-428ad038c06f</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Forbidden Fruit&#174; Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47f7ef0c-5dc8-42bb-a53e-428ad038c06f</Data></Cell>
+<Cell><Data ss:Type="String">Splash of Lemon Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Gin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Rum (Light)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Triple Sec</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">Sweet &amp; Sour Mix</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">Float of Blue Curacao</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">78d525d3-9615-4dd9-8f67-92250194d69f</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Sherry (Dry)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">78d525d3-9615-4dd9-8f67-92250194d69f</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Vermouth (Sweet)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">78d525d3-9615-4dd9-8f67-92250194d69f</Data></Cell>
+<Cell><Data ss:Type="String">Dash of Orange Bitters</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Strawberry Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String">Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String">Cranberry Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8d64b6a5-c730-497b-9b47-231b6137cf71</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Scotch Whisky</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8d64b6a5-c730-497b-9b47-231b6137cf71</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Vermouth (Dry)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8d64b6a5-c730-497b-9b47-231b6137cf71</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Vermouth (Sweet)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8d64b6a5-c730-497b-9b47-231b6137cf71</Data></Cell>
+<Cell><Data ss:Type="String">3 Dashes of Orange Bitters</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b5a7e8b5-7962-4e9f-b4c3-e19f1164f41e</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Apricot Brandy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b5a7e8b5-7962-4e9f-b4c3-e19f1164f41e</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Triple Sec</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b5a7e8b5-7962-4e9f-b4c3-e19f1164f41e</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Lime Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cb8ff6ca-3137-4b6f-9d45-6fe1103e54f6</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Coffee Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cb8ff6ca-3137-4b6f-9d45-6fe1103e54f6</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Cr&#232;me de Menthe (White)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cb8ff6ca-3137-4b6f-9d45-6fe1103e54f6</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Irish Cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a1da371-e5bc-4cc2-9323-67befe076cc1</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Coffee Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a1da371-e5bc-4cc2-9323-67befe076cc1</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Irish Cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a1da371-e5bc-4cc2-9323-67befe076cc1</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Peppermint Schnapps</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">83a5d251-2453-4fbd-82ca-da4a4ac06414</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">83a5d251-2453-4fbd-82ca-da4a4ac06414</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Banana Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">83a5d251-2453-4fbd-82ca-da4a4ac06414</Data></Cell>
+<Cell><Data ss:Type="String">Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">83a5d251-2453-4fbd-82ca-da4a4ac06414</Data></Cell>
+<Cell><Data ss:Type="String">Float of Grenadine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d3352b32-853e-4b5c-8299-1aa6edc14c5e</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Vanilla Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d3352b32-853e-4b5c-8299-1aa6edc14c5e</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. White Chocolate Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d3352b32-853e-4b5c-8299-1aa6edc14c5e</Data></Cell>
+<Cell><Data ss:Type="String">3/4 oz. Triple Sec</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">da7dffb1-3c58-4682-a80f-e47f09a3823c</Data></Cell>
+<Cell><Data ss:Type="String">1 1/2 oz. Vodka or Orange Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">da7dffb1-3c58-4682-a80f-e47f09a3823c</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Grand Marnier&#174; Orange Liqueur</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">da7dffb1-3c58-4682-a80f-e47f09a3823c</Data></Cell>
+<Cell><Data ss:Type="String">Orange Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e31e5493-720c-4d73-840d-58f78a128228</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Vermouth (Sweet)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e31e5493-720c-4d73-840d-58f78a128228</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Vermouth (Dry)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e31e5493-720c-4d73-840d-58f78a128228</Data></Cell>
+<Cell><Data ss:Type="String">1/2 oz. Amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e31e5493-720c-4d73-840d-58f78a128228</Data></Cell>
+<Cell><Data ss:Type="String">Splash of Lemon Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">2 Cups of Long-Grain White Rice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">7 Cups of Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">2 Cups of Milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">2 Cinnamon Sticks</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">1 Cup of Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String">2 Cups of Dried Hibiscus</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String">10 Cups of Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String">1 Cup of Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String">10 oz. Dried Tamarinds (Peeled)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String">10 Cups of Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String">1 Cup of Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">deefba0b-8950-4b5f-9f1b-959b4645eb09</Data></Cell>
+<Cell><Data ss:Type="String">2 oz. Gin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">deefba0b-8950-4b5f-9f1b-959b4645eb09</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Lemon Juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">deefba0b-8950-4b5f-9f1b-959b4645eb09</Data></Cell>
+<Cell><Data ss:Type="String">1 tsp. Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">deefba0b-8950-4b5f-9f1b-959b4645eb09</Data></Cell>
+<Cell><Data ss:Type="String">Club Soda / Carbonated Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e2a2e630-3a56-471b-9c55-0b45c5009b5f</Data></Cell>
+<Cell><Data ss:Type="String">1 oz. Southern Comfort&#174;</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeInstructions">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Goodcocktails1 ID</Column>
+<Column ss:Width="100">step</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Goodcocktails1 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">step</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">15929c37-9468-4bc9-b83f-5cd30c3d05b6</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">15929c37-9468-4bc9-b83f-5cd30c3d05b6</Data></Cell>
+<Cell><Data ss:Type="String">Pour the orange vodka into a glass with ice. Fill it with half orange juice and half lemon-lime soda.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3b2b1be-e25f-4229-aac8-a848716444a0</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3b2b1be-e25f-4229-aac8-a848716444a0</Data></Cell>
+<Cell><Data ss:Type="String">Combine both ingredients into shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3b2b1be-e25f-4229-aac8-a848716444a0</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b2a1a71e-9cc9-44a5-8abf-e98f5524e92c</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b2a1a71e-9cc9-44a5-8abf-e98f5524e92c</Data></Cell>
+<Cell><Data ss:Type="String">In layers, pour the grenadine then the blue Curacao and finally the vodka.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String">You can also make it as a shot.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">71907b3c-bd2c-47e1-a680-13e206e0436e</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4a211cf3-27a9-4201-80a7-edd99b145464</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4a211cf3-27a9-4201-80a7-edd99b145464</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String">Pour in layers the coffee liqueur then the hazelnut liqueur and finally the Irish cream in a shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String">You don&#39;t have to make it a layered drink. Just pour all ingredients into a shaker with ice. Shake and strain into a shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d92523c-dde4-4e01-8732-0ca3825f9704</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8c4d6539-a8bc-4ad4-b942-6249ee04a12f</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8c4d6539-a8bc-4ad4-b942-6249ee04a12f</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Cherry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ff93a76f-3f4d-408c-afdf-97450475a03d</Data></Cell>
+<Cell><Data ss:Type="String">Pour all the liqueurs into a glass with ice. Fill it with cranberry juice and pineapple juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c97ad420-9369-4732-b273-d0060de30a21</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Pineapple Slice and Strawberry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c97ad420-9369-4732-b273-d0060de30a21</Data></Cell>
+<Cell><Data ss:Type="String">Pour rum and amaretto into a glass with ice. Fill it with orange juice. Add grenadine on top.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0c378fd2-032b-4de9-a9a8-a22839e6e5b9</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Lemon Twist</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">0c378fd2-032b-4de9-a9a8-a22839e6e5b9</Data></Cell>
+<Cell><Data ss:Type="String">Pour rum into a glass with ice. Fill it with ginger beer.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">2d0c4cfc-6e99-43b1-aff5-4725b617da85</Data></Cell>
+<Cell><Data ss:Type="String">Pour vodka, peach schnapps and triple sec into a glass with ice. Almost fill it with equal parts of orange juice and pineapple juice. Add the splash of sweet and sour mix.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Lemon Twist</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3a8b6844-5a62-4dc8-aa9b-0e1feea99543</Data></Cell>
+<Cell><Data ss:Type="String">Pour light rum, a&#241;ejo rum, orange juice and lemon juice into a shaker with ice. Shake and pour into a glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Cherry (Optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String">Pour amaretto and Southern Comfort into a glass with ice. Fill it with sweet and sour mix.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String">You can make it as a shot.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ad2a508b-8d77-409b-9378-e309a48079c9</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">295db2cb-a3cc-4693-a521-b410923309ab</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">295db2cb-a3cc-4693-a521-b410923309ab</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a895137-f0b7-484b-81b7-e347809ac5cf</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a895137-f0b7-484b-81b7-e347809ac5cf</Data></Cell>
+<Cell><Data ss:Type="String">In layers, pour the amaretto, then the Baileys and finally the Cognac.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f4793c03-9967-41f8-a0d8-8770be43e9ae</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f4793c03-9967-41f8-a0d8-8770be43e9ae</Data></Cell>
+<Cell><Data ss:Type="String">In layers, pour the amaretto, then the Baileys and finally the Cointreau.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8175e448-e3c5-4845-82c4-afb3a65f32e8</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Cherry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8175e448-e3c5-4845-82c4-afb3a65f32e8</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9eecf1c5-c2e9-429e-8eba-6c9c22220eec</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9eecf1c5-c2e9-429e-8eba-6c9c22220eec</Data></Cell>
+<Cell><Data ss:Type="String">Pour vodka and Drambuie into an old fashioned glass with ice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cc07ab4d-52f0-4c2f-abfc-26c39aa5be9b</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cc07ab4d-52f0-4c2f-abfc-26c39aa5be9b</Data></Cell>
+<Cell><Data ss:Type="String">Pour dark rum and peach nectar into a glass with ice. Fill it with orange juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">362c3bd7-545a-4b3a-a15e-12e2481c7623</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">362c3bd7-545a-4b3a-a15e-12e2481c7623</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b1bc3bce-1725-44f2-a914-e629025f8854</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b1bc3bce-1725-44f2-a914-e629025f8854</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">141e135f-5ce9-4242-b6aa-447422a27f59</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">141e135f-5ce9-4242-b6aa-447422a27f59</Data></Cell>
+<Cell><Data ss:Type="String">Pour absinthe in an absinthe glass. Place an absinthe spoon (a spoon with small holes) across the top of the glass and place the sugar cube on it. Pour water drop by drop on the sugar so the water melts the sugar into the drink.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa8b8890-8f22-43e1-bcf3-8a56880548e8</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">aa8b8890-8f22-43e1-bcf3-8a56880548e8</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4908afa8-4388-426f-9c6c-ab06df9e0aa0</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">4908afa8-4388-426f-9c6c-ab06df9e0aa0</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b7f26a04-6210-406e-8961-051dfbe5643d</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b7f26a04-6210-406e-8961-051dfbe5643d</Data></Cell>
+<Cell><Data ss:Type="String">Pour Absolut Kurant and melon liqueur into a glass with ice. Fill it with equal parts of cranberry juice and lemon-lime soda.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b0c0f7a9-67f5-4799-b1a4-1061f2cf7d14</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Mint Leaves</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b0c0f7a9-67f5-4799-b1a4-1061f2cf7d14</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1f07537e-28c3-4e35-86b5-a9ed75ba7099</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1f07537e-28c3-4e35-86b5-a9ed75ba7099</Data></Cell>
+<Cell><Data ss:Type="String">Pour 151-proof rum and Wild Turkey into a shot glass. Drink the shot and chase it with cola.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a61e79b5-7f8b-44ea-88b4-07562d22424c</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">805c4d48-fcc8-46dd-a9c7-ab93c5caed1d</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">805c4d48-fcc8-46dd-a9c7-ab93c5caed1d</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47f7ef0c-5dc8-42bb-a53e-428ad038c06f</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">47f7ef0c-5dc8-42bb-a53e-428ad038c06f</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Lemon Wedge and Cherry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">Pour the vodka, gin, rum, and triple sec into a glass with ice. Fill with sweet and sour and add the float of Blue Curacao.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String">You could add 1/2 oz of tequila if you like.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a207d1ab-ba69-4d2d-93f8-5a267b3e8a93</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">78d525d3-9615-4dd9-8f67-92250194d69f</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">78d525d3-9615-4dd9-8f67-92250194d69f</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String">Pour strawberry schnapps into a glass with ice. Fill it with equal parts of orange juice and cranberry juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String">You may add a splash of soda.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a0f2f0fa-eec3-4e29-83a2-bf7f2c5c797b</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8d64b6a5-c730-497b-9b47-231b6137cf71</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8d64b6a5-c730-497b-9b47-231b6137cf71</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b5a7e8b5-7962-4e9f-b4c3-e19f1164f41e</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Lime Wedge</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b5a7e8b5-7962-4e9f-b4c3-e19f1164f41e</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cb8ff6ca-3137-4b6f-9d45-6fe1103e54f6</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cb8ff6ca-3137-4b6f-9d45-6fe1103e54f6</Data></Cell>
+<Cell><Data ss:Type="String">Pour in layers the coffee liqueur then the white cr&#232;me de menthe liqueur and finally the Irish cream in a shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a1da371-e5bc-4cc2-9323-67befe076cc1</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9a1da371-e5bc-4cc2-9323-67befe076cc1</Data></Cell>
+<Cell><Data ss:Type="String">Pour in layers the coffee liqueur then the Irish cream and finally the peppermint schnapps in a shot glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">83a5d251-2453-4fbd-82ca-da4a4ac06414</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Cherry (Optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">83a5d251-2453-4fbd-82ca-da4a4ac06414</Data></Cell>
+<Cell><Data ss:Type="String">Pour vodka and banana liqueur into a glass with ice. Almost fill it with orange juice. Add the float of grenadine.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d3352b32-853e-4b5c-8299-1aa6edc14c5e</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Cherry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d3352b32-853e-4b5c-8299-1aa6edc14c5e</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">da7dffb1-3c58-4682-a80f-e47f09a3823c</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Orange Slice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">da7dffb1-3c58-4682-a80f-e47f09a3823c</Data></Cell>
+<Cell><Data ss:Type="String">Pour vodka and Grand Marnier into a glass with ice. Fill it with orange juice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e31e5493-720c-4d73-840d-58f78a128228</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">e31e5493-720c-4d73-840d-58f78a128228</Data></Cell>
+<Cell><Data ss:Type="String">Pour all ingredients into a shaker with ice. Shake and strain into a chilled martini glass.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">Soak rice in 3 cups of water for a couple of hours. Crumble cinnamon and toast it on a small skillet. Strain the rice and blend it with the cinnamon and milk. Strain mixture into a pitcher and dilute it with 4 cups of water. Add sugar to taste.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String">English Name: Ground Rice Drink Many people call this drink, &quot;Horchata&quot;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9e430109-a400-40ff-bb60-73f2cf3935a0</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String">Place Hibiscus flowers in a pan with 6 cups of water. Bring to boil for a couple of minutes. Remove the pan from the heat and let it cool for 20 minutes. Strain the water into a pitcher and dilute it with 4 cups of cold water. Add sugar to taste.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String">English Name: Hibiscus Iced Tea</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7be6e685-60da-4910-9abe-02509a09cbcb</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: No Garnish</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String">Wash the tamarinds and soak them in 4 cups of hot water for a couple of hours. Rub the tamarinds against each other to get as much pulp as possible. Strain the mixture into a pitcher and dilute with 6 cups of cold water. Add sugar to taste.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String">English Name: Tamarind Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">3c94fa91-06ad-4647-a721-5862b5b4d883</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">deefba0b-8950-4b5f-9f1b-959b4645eb09</Data></Cell>
+<Cell><Data ss:Type="String">Garnish: Mint Leaves</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">deefba0b-8950-4b5f-9f1b-959b4645eb09</Data></Cell>
+<Cell><Data ss:Type="String">Pour gin and lemon juice into a glass with ice. Fill it with club soda. Add sugar and stir.</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
