@@ -1,0 +1,1193 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">"
+<Styles> 
+ <Style ss:ID="Default" ss:Name="Normal"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss"/>
+ <Interior/>
+<NumberFormat/> 
+ <Protection/> 
+ </Style> 
+ <Style ss:ID="s62"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/></Style> 
+<Style ss:ID="s66"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/></Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1" ss:Size="10"/><Interior ss:Color="#DCE6F1" ss:Pattern="Solid"/></Style></Styles><Worksheet ss:Name="Meatsandsausages4">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages4 ID</Column>
+<Column ss:Width="100">name</Column>
+<Column ss:Width="100">image</Column>
+<Column ss:Width="100">url</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages4 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">name</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">image</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">url</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Almond Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/almond-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/almond</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Amaretto Liqueur</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/amaretto-liqueur-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/liqueurs/amaretto</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">Cacao Creme</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/cacao-creme-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/cremes/cacao</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f20b5f87-6aba-4bac-84a8-23f48662055f</Data></Cell>
+<Cell><Data ss:Type="String">Candy Skittles Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/candy-skittles-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/candy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Carambola Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/carambola-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodka/carambola</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Chocolate Creme</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/chocolate-creme-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/cremes/chocolate</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ae2e1643-aa1b-4052-9978-2c0bf0febb23</Data></Cell>
+<Cell><Data ss:Type="String">Coffee Liqueur</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/coffee-liqueur-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/liqueurs/coffee</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Cranberry Infusion</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/cranberry-infusion-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/infusions/cranberry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Cranberry Liqueur</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/cranberry-liqueur-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/liqueurs/cranberry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">Egg (Advocaat) Creme</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/egg-advocaat-creme-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/cremes/egg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">Eiercognac - Polish Egg Creme</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/egg-advocaat-creme-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/cremes/eiercognac</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Honey-Krupnik Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/honey-krupnik-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/honey-krupnik</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Kiwi Infusion</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/kiwi-infusion-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/infusions/kiwi</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Kumquat Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/kumquat-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/kumquat</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Lemon Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/lemon-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/lemon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">Lychee Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/lychee-vodka-1-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/lychee</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">Orange-Spice Liqueur</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/orange-spice-liqueur-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/liqueurs/orange-spice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Pecan Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/pecan-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/pecan</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Pomegranate Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/pomegranate-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/pomegranate</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Pumpkin Infusion</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/pumpkin-infusion-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/infusions/pumpkin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Raspberry Infusion</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/raspberry-infusion-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/infusions/raspberry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Raspberry Liqueur</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/raspberry-liqueur-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/liqueurs/raspberry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bb62f82d-4d30-4b9c-9962-42dfab5300b4</Data></Cell>
+<Cell><Data ss:Type="String">Rowan Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/rowan-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/rowan</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Strawberry Infusion</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/strawberry-infusion-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/infusions/strawberry</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Walnut Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/walnut-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/walnut</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">930b4023-c8c0-4ba6-b38a-fa260da21d06</Data></Cell>
+<Cell><Data ss:Type="String">Watermelon Vodka</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/recipes/alcohol/watermelon-vodka-sm.jpg</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/recipes/alcohol/vodkas/watermelon</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeInstruction">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages4 ID</Column>
+<Column ss:Width="100">step</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages4 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">step</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Almond infusion. Break 275 g of almonds into smaller pieces and cover with 800 ml of 50% alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake the jar every few days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Add sugar syrup and extracts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one day.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Mix infusions with alcohol. Add caramel.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Pour alcohol into brown sugar syrup.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">Place ingredients in a glass jar, add 500 ml 50&#176; alcohol and macerate for 2 weeks. Shake every 2 days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f20b5f87-6aba-4bac-84a8-23f48662055f</Data></Cell>
+<Cell><Data ss:Type="String">Select the type of candy that you like. Red candy will produce red vodka and green colored one will produce green colored vodka.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f20b5f87-6aba-4bac-84a8-23f48662055f</Data></Cell>
+<Cell><Data ss:Type="String">Place vodka and candy in a glass jar, cover and shake. Periodically shake the jar until all candy dissolves in vodka what takes about one day.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f20b5f87-6aba-4bac-84a8-23f48662055f</Data></Cell>
+<Cell><Data ss:Type="String">Filter through a funnel lined up with paper towel or coffee filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f20b5f87-6aba-4bac-84a8-23f48662055f</Data></Cell>
+<Cell><Data ss:Type="String">Bottle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Slice carambolas across into 1/8 inch thick stars.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Mix with vodka adding clove.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks in a closed jar. Shake the jar once a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter. Infusion is very clear.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Mix carambola infusion with 200 ml honey.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Pour into bottles.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Break chocolate into small pieces and mix with rum, brandy and 200 ml 75&#176; alcohol. Rest for two days, shake often.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Separate egg yolks from whites.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Mix sugar and egg yolks together. Continue mixing and add liquefied chocolate. Add milk, almond and vanilla infusion.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ae2e1643-aa1b-4052-9978-2c0bf0febb23</Data></Cell>
+<Cell><Data ss:Type="String">Mix all ingredients with alcohol and macerate for 2 weeks. Shake the jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ae2e1643-aa1b-4052-9978-2c0bf0febb23</Data></Cell>
+<Cell><Data ss:Type="String">Filter and bottle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Place halved cranberries in a jar, add spices, sugar and alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake gently the jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for 2 months.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Cranberry infusion. Cut 300 g cranberries into halves and cover with 600 ml of 50% alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake the jar every few days. Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Mix 500 ml of cranberry infusion with 200 ml of ginger infusion. Add 300 ml of sugar syrup and vanilla and lemon extracts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Add water if needed to 1 liter mark. The recipe is for one liter of the product.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">Separate egg yolks from whites.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">Mix sugar with egg yolks until creamy and perfectly smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">Continue mixing and start adding slowly vanilla infusion, brandy and rum.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">Continue mixing and start adding slowly 75&#176; alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">Separate egg yolks from whites.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">Mix sugar with egg yolks until creamy and perfectly smooth.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">Continue mixing and add vanilla infusion and alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Add water to honey and bring to boil. Remove any foam that forms on the surface. Add spices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Remove from heat, keep on stirring and add alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Pour into bottles. You may serve Krupnik the moment it is done, but its taste improves in time.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Slice kiwis and place in a jar.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Add sugar and alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 4 weeks. Shake jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Kumquat infusion: 500 g kumquats with the skin, halved. Cover with 500 ml 75% (150 proof) Everclear. Macerate for 3 weeks, shake the jar every few days, strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Ginger extract: 25 g fresh peeled sliced ginger, 50 ml 50% alcohol. Macerate for 3 weeks, shake the jar every few days, strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Mix 600 ml Kumquat infusion, 15 ml ginger extract, 200 g sugar or 200 ml normal 73% sugar syrup and add all extracts.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Add water if needed to 1 liter mark. The recipe is for 1 liter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Measure 100 ml of water and add 1/10 teaspoon of saffron. The solution will develop the real lemon skin color within minutes. Strain.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Mix alcohol with lemon, orange and ginger infusion. Add citric acid and stir.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Place sugar syrup in a different jar.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Keep on stirring syrup and start slowly adding mixture of alcohol infusions.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Place the solution in a measuring jar and add saffron water.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Stir the contents and add water to 1 liter mark.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">Squeeze lychee fruit with your fingers and remove the skin and the pit. Use only white pulp for making infusion. You should get at least 500 g of the white pulp.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">Add alcohol and macerate for 3 weeks. Adding plain vodka makes a smooth drink. Shake the jar every few days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one day.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">Create Spice Infusion:</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">Mix spice infusion with rum and alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">Mix infusion with sugar syrup.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Pecan infusion. Break 275 g of pecans into smaller pieces and cover with 800 ml of 50% alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake the jar every few days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Add sugar syrup and extract.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one day.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Take 1 kg of pomegrante, open the fruit and scoop the seeds and cover them with 750 ml 58% alcohol. Macerate for 3 weeks, shake the jar every few days, strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Ginger extract: 35 g fresh peeled sliced ginger, 70 ml 50% alcohol. Macerate for 3 weeks, shake the jar every few days, strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Mix 600 ml Pomegrante infusion, 50 ml ginger extract, 200 g sugar or 200 ml normal 73% sugar syrup and add extracts and citric acid. Add 150 ml of 75% alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Add water if needed to 1 liter mark. The recipe is for 1 liter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Place diced pumpkin in a jar, add spices, sugar and alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake gently the jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for 2 months.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Cover leftover fruit with 300 ml of 60&#176; alcohol. Stir.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Strain, filter and bottle. Age for 2 months.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Create Raspberry Infusion:</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Add citric acid to raspberry infusion and mix with sugar syrup.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Mix lemon skin infusion with 75&#176; alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Keep on stirring infusion and start slowly adding alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one month.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bb62f82d-4d30-4b9c-9962-42dfab5300b4</Data></Cell>
+<Cell><Data ss:Type="String">Pour alcohol over berries and macerate for 3 weeks. Shake the jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bb62f82d-4d30-4b9c-9962-42dfab5300b4</Data></Cell>
+<Cell><Data ss:Type="String">Strain, add sugar and bottle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Place strawberries in a jar and cover with sugar. Rest for 2 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Add lemon juice and alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake gently the jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for 2 months.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Walnut infusion. Break 275 g of pecans (no shells) into smaller pieces and cover with 800 ml of 50% alcohol.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Macerate for 3 weeks. Shake the jar every few days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Strain and filter.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Add sugar syrup and extract.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Bottle and age for one day.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">930b4023-c8c0-4ba6-b38a-fa260da21d06</Data></Cell>
+<Cell><Data ss:Type="String">Peel off the skin and cut watermelon into 1 inch cubes. Add ginger.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">930b4023-c8c0-4ba6-b38a-fa260da21d06</Data></Cell>
+<Cell><Data ss:Type="String">Pour alcohol over watermelon and macerate for 3 weeks. Shake the jar twice a week.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">930b4023-c8c0-4ba6-b38a-fa260da21d06</Data></Cell>
+<Cell><Data ss:Type="String">Strain, filter and bottle.</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeIngredients">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages4 ID</Column>
+<Column ss:Width="100">recipeIngredient</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages4 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeIngredient</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Almond extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Brown sugar syrup 73%***</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 75&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Caramel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">Sugar syrup 73%</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">Heavy cream</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">75&#176; alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f20b5f87-6aba-4bac-84a8-23f48662055f</Data></Cell>
+<Cell><Data ss:Type="String">Clear hard candy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Almond infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla infusion**</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Orange skin infusion***</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ae2e1643-aa1b-4052-9978-2c0bf0febb23</Data></Cell>
+<Cell><Data ss:Type="String">Sugar syrup 73%</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ae2e1643-aa1b-4052-9978-2c0bf0febb23</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 75&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Whole cloves</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Fresh ginger</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Lemon skins extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">fine sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">vanilla infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">nutmeg infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">vanilla infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Aromatic infusions*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Caramel syrup (optional)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Citric acid</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Ginger extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Cinnamon extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Cloves extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Sugar syrup</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Sugar syrup 73%</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Citric acid</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Saffron for color</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">No other ingredients are added.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">Sugar syrup 73%</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Lemon skins extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Cloves extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Citric extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Sugar syrup</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla stick</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Whole cloves</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Whole nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Fresh Ginger</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Lime</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Lemon skins infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Citric acid</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bb62f82d-4d30-4b9c-9962-42dfab5300b4</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Lemon juice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">930b4023-c8c0-4ba6-b38a-fa260da21d06</Data></Cell>
+<Cell><Data ss:Type="String">Fresh ginger</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeMaterials">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages4 ID</Column>
+<Column ss:Width="100">material</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages4 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">material</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Almonds</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">467a0476-d165-43ae-8ae5-028c0d003694</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Almond infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">020483f5-f69d-4b4a-9f11-0fc7308f60d8</Data></Cell>
+<Cell><Data ss:Type="String">Vanilla infusion**</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">Cacao infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">90ef1cd3-9dc4-4709-b4a2-ec17f9f5c309</Data></Cell>
+<Cell><Data ss:Type="String">Orange skins infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f20b5f87-6aba-4bac-84a8-23f48662055f</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 40&#176; (vodka)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Ripe carambola</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Vodka</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">490da2be-703f-46c7-a7ff-1a41b7691261</Data></Cell>
+<Cell><Data ss:Type="String">Honey</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">75&#176; alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">White rum, 40&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Brandy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Egg yolks</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Full fat milk, 3.2%</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Bitter chocolate</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f61f50fd-e063-49bf-b21d-74ec760249bb</Data></Cell>
+<Cell><Data ss:Type="String">Fine sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ae2e1643-aa1b-4052-9978-2c0bf0febb23</Data></Cell>
+<Cell><Data ss:Type="String">Coffee infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ae2e1643-aa1b-4052-9978-2c0bf0febb23</Data></Cell>
+<Cell><Data ss:Type="String">Lemon skin infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Cranberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 50&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bcc532d-c6fb-4d7d-b4f5-e50805c4acd1</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Fresh cranberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Ginger, fresh</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5bb88795-7cf0-496d-babd-8de1650dcd34</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">75% alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">brandy</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">rum</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f14aef78-44d9-4e46-8f0c-3f8485a7edef</Data></Cell>
+<Cell><Data ss:Type="String">12 large egg yolks</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">75% alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">12 large eggs</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">fine sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">a1a4bfa3-d555-4987-ac3d-040366e8d64d</Data></Cell>
+<Cell><Data ss:Type="String">rum</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Honey</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6293556a-bd21-4329-ac67-0de102cd0b56</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 75&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Kiwi</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b740ad6f-fedc-465c-ab20-7e6145062d59</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 60&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Kumquat infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Lemon skins infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">cf4fed5e-eece-46fc-b289-588c751e4470</Data></Cell>
+<Cell><Data ss:Type="String">Orange skins infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 75&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Lemon skins infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Orange skins infusion*</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c5e46200-e094-45a5-8e4d-628c8ac0100b</Data></Cell>
+<Cell><Data ss:Type="String">Ginger infusion**</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">Whole Lychees</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">1358d3ce-6f80-44e4-84da-e50136937193</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol, 80 proof (vodka)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">Spice infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7711eaf9-2751-41c6-98ab-9d375dccd502</Data></Cell>
+<Cell><Data ss:Type="String">75&#176; alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Pecans</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">773cc3a3-d82a-4a33-8114-be8138bbbea7</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Pomegranate infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f5ce6378-fa4a-4aef-a1a6-e9ab5ce959a2</Data></Cell>
+<Cell><Data ss:Type="String">Ginger extract</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Pumpkin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ea930250-e9f3-44b7-a884-e3962fd0026f</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 50&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Raspberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">63985034-6772-487d-b225-e65620d969bf</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 75&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Raspberry infusion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Sugar syrup 73%</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f24dee1e-dfe9-4e30-afe0-a945fd1ec2ee</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 75&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bb62f82d-4d30-4b9c-9962-42dfab5300b4</Data></Cell>
+<Cell><Data ss:Type="String">dry rowan berries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bb62f82d-4d30-4b9c-9962-42dfab5300b4</Data></Cell>
+<Cell><Data ss:Type="String">60&#176; alcohol</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Strawberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9679115b-8ae7-497f-8391-c35c3761a9c6</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 70&#176;</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Walnuts</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">daddbb22-085b-4354-adb0-eabacd7a9a17</Data></Cell>
+<Cell><Data ss:Type="String">Sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">930b4023-c8c0-4ba6-b38a-fa260da21d06</Data></Cell>
+<Cell><Data ss:Type="String">Watermelon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">930b4023-c8c0-4ba6-b38a-fa260da21d06</Data></Cell>
+<Cell><Data ss:Type="String">Alcohol 75% (150 proof)</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
