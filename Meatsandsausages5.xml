@@ -1,0 +1,1949 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">"
+<Styles> 
+ <Style ss:ID="Default" ss:Name="Normal"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss"/>
+ <Interior/>
+<NumberFormat/> 
+ <Protection/> 
+ </Style> 
+ <Style ss:ID="s62"> 
+ <Alignment ss:Vertical="Bottom"/> 
+ <Borders/> 
+ <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/></Style> 
+<Style ss:ID="s66"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/><Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#F5F5F5"/></Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1" ss:Size="10"/><Interior ss:Color="#DCE6F1" ss:Pattern="Solid"/></Style></Styles><Worksheet ss:Name="Meatsandsausages5">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages5 ID</Column>
+<Column ss:Width="100">name</Column>
+<Column ss:Width="100">url</Column>
+<Column ss:Width="100">image</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages5 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">name</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">url</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">image</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">Smoked Back Fat</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/back-fat-smoked</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Canadian bacon</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/bacon-canadian</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon - Cured and Smoked</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/bacon-cured-smoked</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9139764b-a1f5-439d-884a-909dd0e32032</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/biltong</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">Breasola</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/breasola</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">Chicken Meat Jelly</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/chicken-meat-jelly</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Coppa</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/coppa</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">Boiled Ham</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/ham-boiled</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Formed Ham - Butt</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/ham-butt</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Formed Ham - Butt &amp; Picnic</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/ham-butt-picnic</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Smoked and Cooked Ham</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/ham-cooked-smoked</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">American Country Ham</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/ham-country-american</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Formed Ham - Picnic</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/ham-picnic</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Beef Jerky (Traditional method)</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/jerky-beef</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Venison Jerky</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/jerky-venison</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Liver Loaf</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/liver-loaf</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Lomo Embuchado</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/lomo-embuchado</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Pancetta</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pancetta</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Pastirma</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pastirma</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Pastrami</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pastrami</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Pemmican</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pemmican-recipe</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Pennsylvania Scrapple</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pennsylvania-scrapple</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">Pickled Pigs Feet</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pigs-feet-pickled</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Smoked Pork Butt</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pork-butt-smoked</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">Pork Curry Sausage</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pork-curry-sausage</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">Pork Loaf</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pork-loaf</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">Smoked Pork Loin</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/pork-loin-smoked</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Sulz</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/sulz</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">Tasso</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/tasso</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Smoked and Baked Pork Tenderloin</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/hams-other-meats/tenderloin-pork</Data></Cell>
+<Cell><Data ss:Type="String">https://www.meatsandsausages.com/public/images/sausage-recipes/loin-pork_sm.jpg</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeInstruction">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages5 ID</Column>
+<Column ss:Width="100">step</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages5 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">step</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">Salting. Take half of salt and rub into back fat on all sides. Spread salt on the bottom of container. Place back fat skin down in a container. Spread salt on top. Place another slab of back fat on top of the first one using the same procedure. Keep container under refrigeration (40-42&#186; F, 4-6&#186; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">After 7 days repeat procedure using second half of salt. Reverse order of slab placement: the slab that was previously on top goes on bottom now and vice versa. You can rub in any spices that you like for instance pepper, paprika, or coriander. Leave in a container for 1-2 weeks longer. This means that the total time is between 2 and 3 weeks.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">Shake off excess salt from the surface of back fat and wash the slab in a lukewarm water. This removes any crystalized salt that has accumulated on the surface.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">Make a hanging loop and hang at cool temperature for 12 hours to dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">Smoke with a thin cold smoke for 2 days until back fat develops light brown or brown color.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">Keep in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Immerse loin in brine and place for 2 days in refrigerator OR pump meat with 10% pump and then place it in leftover brine for 1 day only.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Remove all bones and trim down the fat until you reach the lean meat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Place loin into leftover brine and keep for 5 days in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Making Brine: To make 50&#176; brine (10&#176; Baum&#233;) add 1.2 pounds of salt to 1 gallon of water (3.8 liters). Add 130 g (7-&#189; Tbsp) of Cure #1. Add 226 g (&#189; lb) sugar. This amount of brine will cure about 17 lbs (7.3 kg) of meat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Remove from brine, wash and soak in cold water for 1 hour.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Stuff into synthetic casing or stockinette and hang in a preheated to 130&#186; F (54&#186; C) smokehouse to dry. This should take 3-4 hours with vents wide open.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">When loin is dry apply smoke and smoke for 3 hours at 150&#186; F (66&#186; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Increase temperature (no smoke) to 170&#186; F (77&#186; C) and hold until meat reaches internal temperature of 154&#186; F (68&#186; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Shower for 5 minutes with cold water.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Hang at room temperature until loin is dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">Place in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Rub in 1/2 of the mixture on all sides.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">After 5 days overhaul and rub in another half. Keep under refrigeration. The meat will be cured im 10 to 15 days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Soak bacon for one hour, brush the surface clean and hang until dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Smoke with a thin cold smoke for 1-2 days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon-Brine Cured, Brine: 60&#186; SAL brine, 3.8 liters, 1 gallon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1, 81 g, 13&#189; tsp.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon is placed for 10 days in curing solution. The pieces are overhauled in the middle of the process.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon is soaked for one hour in fresh water and the surface brushed off clean.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon is hung to dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon is smoked with cold smoke for 2 days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon - Injection Cured</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon is needle injected with the above 60&#186; SAL curing solution at 10% pump.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon is left in for 5 days in the same strength solution. Bacon is rinsed and left to dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Bacon is smoked with cold smoke for 2 days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">Remove all fat, connective tissue and silver skin.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">Mix salt, Cure #2 and all ingredients together. Take &#189; of the mixture and rub into the meat. Place in zip-loc&#174; bag and put for 3 days into refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">Remove from the bag and apply the second half of the mixture. Drain away any liquid from the bag. Place in refrigerator for 3 more days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">Brush off excess mixture from the meat. Stuff into synthetic or collagen casings.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">Hang for 4 weeks at 54&#186; F (12&#186; C) to dry and mature.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">Make 1 liter/quart gelatin. Add 1 Tbs white vinegar and 1 Tbs white wine.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">Pour a small amount of hot gelatin on the bottom of container, then place it in a refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">Once the solution hardens, place a slice of orange, hard boiled egg, carrot, apple or any decoration of your choice on top of solid gelatin.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">More hot gelatin is added again to set the slices of fruit in place and the container is placed in the refrigerator again.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">Once the solution solidifies it is removed from the refrigerator and the whole pieces of cold chicken breast are placed into the container. 6. The container is filled with gelatin and placed in the refrigerator overnight for the jelly to solidify.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">Before serving the container is flipped upside down so that the entire product drops out. It helps to dip the container first for a short while in hot water to melt a tiny amount of gelatin that is attached to the container inside.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Trim excess fat all around the butt. Keep the butt in refrigerator to keep it cold.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Mix salt, Cure #2, sugar and all spices together. This is your spice mixture. Rub the meat on all sides with half of the spice mixture. Place the butt for 9 days in refrigerator. Keep it covered with plastic wrap or a cloth to prevent drying. You can place it in a zip lock bag too.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">After 9 days, rub the butt with the remaining spice mixture and keep in refrigerator for an additional 9 days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Remove from refrigerator, rinse the surface with tap water to remove any crystallized salt. Let it dry on the refrigerator’s screen for 3 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Make another flavoring spice mixture: 1 Tablespoon of brown sugar, 1 teaspoon of black pepper, 1 teaspoon of coarsely ground fennel. Rub into coppa.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Stuff the butt into beef bungs or 100 mm collagen casings. Prick air pockets to allow entrapped air to escape. Do this especially at the two ends, and anywhere you see pockets of air.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Hold butts for 21 days at around 55&#176; F (14&#176; C), 70% humidity to dry and mature. Do not go over 59&#176; F (15&#176; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">Pump spray ham with 6 - 7% of it&#39;s green weight ( 0.3 - 0.35 kg, 10 - 12 oz) of brine (salt, water and Cure # 1). About 7 - 9 syringe injections. After pumping immerse ham in the remaining brine and place in a refrigerator for 10 - 14 days.Turn over meat once every few days and keep an eye on the brine. The meat must be completely covered with brine, use weight if needed. Any symptoms of liquid going murky, accumulation of foam or slime on top or unpleasant smell, require brine change. Check the meat as well but that is very unlikely that it might be going bad. If brine&#39;s color becomes reddish don&#39;t worry it&#39;s normal. If you do it first time, check brine on a daily basis, you will sleep better at night.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">Once curing is done, check the meat and it&#39;s smell and color. Place hams for 3 hours under running water. You may place them in a large pot, but you will heve to change water once in a while.This time may be shorter if smaller pieces of meat are rinsed. After one hour get a tiny piece from inside and boil or fry it to see that the taste is what you are looking for. Then wash them briefly in warm water 86 - 104 F (30 - 40 C) and clean them on outside by scrubbing with a brush or knife. That removes any accumulation of salt crystals that may prevent proper smoke penetration.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">After rinsing hang hams or place them on wire screen over the sink or some other vessel. Let them drain for 12 - 24 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">Now it&#39;s the time for the bone removal if your ham has one and getting rid of any gristle, sinew and elements that we feel are not needed. Roll up the ham and tie it with butcher twine - twice lenghtwise and every 2&quot; (4 - 5 cm) across. Make on one end a hanging loop for smoking. Even up any irregular areas for uniform shape.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">Apply warm smoke, 86 - 104 F (30 - 40 C ) for 3 - 4 hours until light yellow to light brown color develops.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">Hams are placed in boiling water and boiled for 15 min. Water temperature is then lowered to 176 - 180 F (80 - 82 C) and hams are poached at this temperature until the inside temperature is 154 - 158F ( 68 - 70 C).The estimated time is about 50 min for 1 kg of weight. This time includes 15 min of boiling.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">Shower with cold water until the internal temperature is reduced to 110 F (44 C). Hang at room temperature for 1 hour then place in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Remove skin. Cut meat into 1” (25 mm) pieces. Grind skin with ⅛” (3 mm) plate. Save fat trimmings for other sausages.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Dilute salt, Cure #1 and sugar in 100 ml of water and pour over meat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Stir meat pieces, kneading them lightly. Add spices and ground skin and mix everything together.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Stuff meat pieces into a cooking bag tightly, trying not to trap unnecessary air.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Place the bag inside the ham press. Apply slight pressure.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Place the ham press in a refrigerator for 48 hours. This is the curing step.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Apply pressure to the cover and place the ham mold in hot water. Cook for 60 minutes at 176&#186; F (80&#186; C). A five pound ham (2.5 kg) may need 3 hours cooking time.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Place the ham press for 2-3 hours in cold water to cool and then place overnight in a refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Remove the ham from the mold. Keep refrigerated.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Remove skin. Cut meat pieces into 1” (25 mm) cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Grind all meat through 3/16” (5 mm) plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Mix meat with salt and Cure #1. Pack tightly in a container, cover with cloth and leave in a refrigerator for 2 days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Mix cured meat with all ingredients until mixture feels sticky.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Stuff mixture into cellophane bag whose size corresponds to the size of your ham press. Place the bag into the ham press and apply pressure to the cover.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Insert the ham press into boiling water but cook at 176&#186; F (80&#186; C) until meat reaches 154-160&#186; F (68-71&#186; C). In a small ham press, for example 4” diameter and 4-6” high, that will take about 2 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Place ham press for 2-3 hours in cold water to cool and then place overnight in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Remove ham from the press.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Making Brine: Salt: 0.6kg (1.6 lb) Cure #1: 120 g (4.2 oz) Sugar: 42 g (1.5 oz) Cold water 3.8 l (1 gal)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Pump ham with 60&#186; SAL brine (combine water, salt, Cure #1 and water together). Percent injection: 7%. The weight of cover pickle: 40% in relation to meat’s weight.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Immerse pumped ham in cover pickle for 10-14 days at refrigerator temperature. Overhaul (turn around) hams every few days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Soak for 3 hours in cold running water. Rinse in lukewarm water (86 - 104&#186; F, 30 - 40&#186; C), using a brush to clean the surface.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Hang or place on a screen for 12 - 24 hours to dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Stuff in netting.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Smoke with warm smoke (86 - 104&#186; F, 30 - 40&#186; C), for 4 hours until skin develops light yellow - light brown color.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Insert ham into boiling water and keep boiling for 15 minutes. Lower water temperature to (176-180&#186; F, 80-82&#186; C) and continue cooking until the internal meat temperature becomes 154-158&#186; F, 68-70&#186; C. A rule of thumb calls for 50 minutes cooking for 1 kg of ham.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Place on shelves/screens to cool down.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">Keep refrigerated.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">Mix salt, Cure #2 and sugar together. Divide into three equal parts. Rub ham on all sides with ⅓ of the mixture. Place ham in refrigerator. Keep it covered with plastic wrap or a cloth to prevent drying. A good idea is to keep it in a zip- loc bag. This prevents the ham from drying. The ham should be kept at around 90% humidity, but the humidity in a refrigerator is only about 40%.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">After 3 days, rub the ham with another ⅓ mixture and place in a refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">After 10 days remove the ham from the refrigerator and apply the last ⅓ of the mixture. Place ham back in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">After 40 days (total salting time) remove the ham from the refrigerator and briefly rinse with tap water. Brush off any salt from the surface.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">Coat the surface of the ham with pepper and stuff the ham into the netting.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">Keep for 14 days at 40-42&#176; F (4-6&#176; C), 75% humidity.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">Apply cold smoke (77&#176; F, 25&#176; C) for 24 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">Ripe (dry and mature) hams for 60 days at 77-86&#176; F, 25-30&#176; C), 65% humidity.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Remove skin. Cut meat pieces into 1” (25 mm) cubes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Add salt and Cure #1 to meat and mix together. Pack tightly in a container, cover with cloth and leave for 3 days in refrigerator. Make brine adding 2&#189; tsp of salt to 60 ml (&#188; cup) of water. This will make 40&#186; SAL brine. No nitrite is needed for curing skins. Leave skins in brine for 3 days in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Poach skins in hot water (just below boiling) for 30 minutes. Drain skins, then cool them.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Grind skins through ⅛” (3 mm) plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Mix cured meat pieces with pepper. Knead meat hard until feels sticky. Add ground skins and mix everything well together.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Stuff mixture into cellophane bag whose size corresponds to the size of your ham press. Place the bag into the ham press and apply pressure to the cover.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Insert ham press into boiling water but cook at 176&#186; F (80&#186; C) until meat reaches 154-160&#186; F (68-71&#186; C). In a small ham press, for example 4” diameter and 4-6” high, that will take about 2 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Place ham press for 2-3 hours in cold water to cool and then place overnight in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Remove ham from the press.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Keep in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Pre-freeze meat so it will be easier to slice.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Cut partially thawed meat into long slices about &#188;&quot; thick and an inch or two wide. For tender jerky, cut at right angles to long muscles (across the grain). Remove visible fat to help prevent off-flavors.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Prepare marinade of your choice in a large sauce pan.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Pour marinade over the meat and marinate jerky 12-24 hours. Overhaul jerky pieces at least once.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Dry at 140-150&#176; F (60-66&#186; C) in dehydrator, oven or smoker. You can apply smoke for 30 minutes at this stage. Test for doneness by letting a piece cool. When cool, it should crack but not break when bent.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate and when cool check again for doneness. If necessary, dry further.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Cut meat into strips about &#188;” (6 mm) thick.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Bring the marinade to a full boil over medium heat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Add a few meat strips, making sure there is enough marinade to cover them. Reheat to a full boil.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Remove quickly meat strips and place on a drying screen.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Repeat steps 3 &amp; 4 until all meat strips have been precooked.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Dry at 140&#186; F (60&#186; C) in dehydrator, oven or smoker. You can apply smoke for 30 minutes at this stage.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Cool a sample piece of jerky and bend it. It should crack but not break.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">When done, place jerky in a plastic bag and refrigerate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Soak livers in cold water for 30 minutes, then grind them through ⅛” (3 mm) grinder plate or chop them in a food processor until bubbles appear on the surface of the emulsion which may take 5-10 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Grind meats through &#188;” (6 mm) plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Dissolve gelatin in water.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Mix everything together.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Stuff into a ham press.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Transfer mold press to a cooking tank with hot water.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Let the temperature drop to 160&#176;F (72&#176; C) and hold this temperature until internal meat temperature reaches 154&#176; F (68&#176; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Chill loaves in cold water and then transfer to refrigerator overnight.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Remove loaf from the mold press.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">Keep refrigerated.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Remove all bones and trim down the fat until you reach the lean meat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Mix salt, Cure #2 and all ingredients together.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Add little water to the mixture and rub the wet mixture into the loin.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Place into a plastic bag and leave for 7-10 days in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Remove loin from refrigerator and brush off the excess salt. Stuff into synthetic or collagen casings.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Hang loin at 46&#186; F (8&#186; C), 72-80% humidity for one month. This is the salt equalization stage.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Dry loins for 3 weeks at 68-72&#186; F (20-22&#186; C). Moisture removal and flavor development takes place at this stage.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Loin is ready when it loses about 40% of its original weight.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Mix salt and Cure #1 together.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Rub &#189; of the mix into the belly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Place the belly in a zip lock plastic bag. Leave for 4 days in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Remove the belly from the bag. Mix all spices with the remaining half of the curing mixture (salt and cure #1). Rub the mixture into the belly. Refrigerate for 4 more days.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Wash belly with tap water and then soak it for 15 minutes in cold water.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Dry belly for 2 days at 54&#176; F (12&#176; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Remove the skin and divide the belly in two cutting along its length.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Soak 5” (120 mm) fibrous casing for 1 hour in water. Roll each belly into a tight roll and insert into the casing. Run butcher twine around the pancetta every &#190;” and make a hanging loop. Remove any air pockets with a needle.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Hang for 3 weeks at 54&#176; F (12&#176; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Refrigerate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Cut meat into 8 x 3 x 2&quot; slices.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Mix salt with Cure #2 and rub the mixture into the meat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Sprinkle some salt in a container and place meat slices on top of one another, separating them with salt. Place a wooden board on top of them and put a weight on top. Pastırma is a noun derived from the verb pastırmak (bastırmak in modern Turkish), which means &quot;to press&quot;.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Keep for 1 week in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Remove meat from the refrigerator and wash with water. Brush off the surface of any salt. Place again in a container for 1 more day, covering meat with a weighted board. This will drain more liquid away.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Mix all ingredients adding 1 tsp of salt. Add a little water and make the mixture into a paste (known as &#231;emen).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Cover the meat with the paste and hang in a dry, well ventilated area (50-59&#186; F, 10-15&#186; C, 60% humidity). You can use hooks or netting. After about 5 days the paste has dried and Pastirma is ready although it may be further dried.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Curing solution: 35 degrees SAL (10 Baume), 101 g salt per 1 liter of water Salt, 90 g (5 Tbsp) Cure #1, 18 g (1 Tbsp) Sugar, 10 g (2 tsp) Water, 1 liter</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Spice mixture: Black pepper, cracked, 10 g (1 Tbsp) Coriander seeds, whole or cracked, 10 g (1 Tbsp) Garlic, 3.5 g (1 clove)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Mix brine ingredients in warm water, then cool the brine in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Pumping meat. Pump brisket with 10% curing solution (brisket should weigh 110% of its original weight). Add the remaining brine to cover the meat and cure for 2 days (3-4 days for 2-3 kg meat). OR</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">No pumping meat. Cover brisket with brine and cure for 4 days. Use about 4 days per 1 kg of meat.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Remove brisket from brine, wash, drain and wipe dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Coat the brisket with spice mixture. Be generous with your rub, it should be applied in a thick coating.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Hang in a preheated to 130&#176; F (54&#176; C) smokehouse (no smoke applied). With dampers fully open, hold at this temperature for about one hour, until meat surface is dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Re-adjust dampers to 1/4 open and apply light smoke for 2 hours. Raise temperature to 200 - 220&#176; F (93 - 104&#176; C). Cook until an internal temperature of 165&#176;F (74&#176; C) is reached.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Hang at room temperature for 1-2 hours. Serve or refrigerate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Pastrami may be dry cured. For 1 kg (2.20 lb.) beef use: Salt, 35 g, 2 Tbsp. Cure #1, 5 g (1 tsp). This comes to 312 ppm of sodium nitrite. The USDA allows 625 ppm for dry curing meat. Sodium nitrite dissipates rapidly, after curing, smoking and cooking not much is left. Note: there is 4.69 g salt in Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Spice mixture: Cracked black pepper, 3 tsp Coriander seeds, 3 tsp. Brown sugar, 2 tsp. Garlic, 1 clove, finely minced</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Mix salt, cure, and spice mixture together and rub it into the meat. Massage it well and cover the meats surface evenly.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Place meat in a Ziplock plastic bag.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Hold in a refrigerator for 5 days, turning the package daily.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Remove meat from the package, rinse with cold water, drain, pat dry with paper towel.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Make another spice mixture and coat the brisket with it. Be generous with your rub, it should be applied in a thick coating.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Smoking/cooking - follow steps 8, 9, and 10.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Chop jerky very finely with a knife or grind in a blender to a powder.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Grind/chop other ingredients and mix with pulverized jerky.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Mix jerky powder with powdered fruits.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Cut the fat (suet, also known as tallow) into chunks and melt down over low heat, until it becomes a yellow-brown liquid. Continue to heat, stirring often, until more moisture is removed. Strain it through the filter to remove any impurities and allow to cool - it will become white.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Reheat tallow over low heat and pour over jerky-fruit mixture. The tallow should be cool enough to touch but still liquid.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Place warm pemmican into suitable molds to make blocks or bars. If pemmican solidifies too fast, you can warm it up again in a microwave.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">Wrap it up in wax paper or store in plastic bags.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Cover the meat and bones with cold water, add salt, pepper and onions and bring to a boil. Reduce heat, skim off the foam cover with lid and simmer for 1-2 hours until meat is tender.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Remove the meat, scrape off the meat from the bones. Discard bones but save the stock.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Chop the meat very fine by hand or grind through 3/16” (4 mm) plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Place meat in stock, mix and taste. Add more salt or pepper if needed. Many recipes call for additional spices, now is the time to add them.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Make sure the stock with meat is hot and start slowly adding buckwheat flour stirring the mixture with a paddle. Make sure it is smooth and thick - the paddle should stand up in the pot</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Pack the mixture into baking pans about 8 x 4 x 2” or 9 x 4 x 3”. The pans should be either oiled or lined up with wax paper. Cover and place in the refrigerator for at least 4 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Cut into 1/2” individual slices. To freeze, place the slices between pieces of butcher paper.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">Pigs feet are immersed for 12 days in 1 gallon 80&#186; SAL brine</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">Pigs feet are removed from brine, skinned and the entire foot is cooked for 3-4 hours at 200&#186; F, 94&#186; C (below boiling point) until meat separates from bones.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">Feet are rinsed in cold water, then placed in a refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">Feet are split and semi-boned.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">They are placed in jars with white vinegar. Whole peppercorns and bay leaves are added for flavoring.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Mix all ingredients in 1 qt of cold water (40&#176; F, 4&#176; C), then spray pump pork butts to 10% of the green (original) weight.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Leave butts in the remaining brine for 3 - 4 days in a refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Take them out, wash briefly with cold water and let drain.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Place butts in stockinette bag or hang them on hooks.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Hang them in a preheated to 130&#176; F (54&#176; C) smokehouse for 2-3 hours until dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Apply a medium smoke increasing temperature to 150&#176; F for about 3 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Raise the temperature to 160–165&#176; F and continue smoking until an internal temperature of 154&#176; F (68&#176; C) is obtained.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Shower with cold water and hang them at room temperature to start cooling.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Store in the refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">Keep lean meats separate from fat trimmings. Grind lean meats through 3/16” plate (5 mm). Refreeze and grind again. Refreeze again and grind through 1/8” (3 mm) plate. Grind fat trimmings through 1/8” (3 mm) plate, refreeze and grind again.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">Mix lean ground pork with all ingredients adding 50 ml of cold water. Add ground fat pork and 50 ml of cold water and mix well. Add fat trimmings and the last 50 ml of water and mix everything well together.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">Stuff firmly into 28-32 mm hog casings. Form 4-5” (10-12 cm) long links.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">Cook in hot water, at 167&#186; F, 75&#186; C until internal meat temperature reaches 154-158&#186; F (68-70&#186; C). This should take about 15 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">Shower with cold water for 5 minutes.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">Keep in a refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">Grind pork through ⅜” (10 mm) plate.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">Mix ground meat with all ingredients.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">Stuff into pans and bake at 212&#176; F (100&#176; C) until the internal temperature reaches 154&#176; F (68&#176; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">Let cool in refrigerator before removing from the pan and slicing.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">Wet cure method. Mix all ingredients with cold water. Using a needle syringe, pump the loin to 3-4 % of its green weight. That means you are taking the amount of brine that equals 3-4% of the loin meat weight. In this case it comes to 60-80 g (2.1 - 2.8 oz) or 1/3 cup. The loin then is placed in the leftover brine and placed in a refrigerator for 1 day. If meat is not pump injected, leave it in brine for 2 days, overhauling on the second day. Loins must be covered with brine, use some kind of weight on top of them.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">Wash the outside of the loin briefly with tap water. It is wise to taste it now and if it is too salty place in cold water (refrigerator) for a few hours. If you want it saltier, stick it back into the brine for a few hours. Let it drain and dry for 6-8 hours at room temperature. Then you can rub the dry loin all over with the yolk of an egg. That will give the loin a beautiful gold color on the outside after smoking.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">Preheat the smoker to 130&#186; F(54&#186; C) and if the loin is dry, introduce smoke with dampers 1/4 closed and smoke for 1 hour at 122-140&#176; F (50-60&#176; C). Increase smoking temperature to 150&#176; F (66&#176; C) applying smoke all the time and stop when the meat’s internal temperature reaches 142&#186; F (61&#186; C). Trichinae, almost non-existent in American pork, dies at 137&#186; F(58&#186; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">Shower with cold water until the internal temperature is reduced to 110&#176; F (44&#176; C). Hang at room temperature for 1 hour then place in a refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Place pigs feet in cold water, add whole peppercorns, bay leaf, carrot, onion and cook pigs feet until meat separates from bones. Use enough water to cover the feet. This might take 3 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Remove feet but save the stock. Remove fat from the top, then clarify meat stock by filtering it through cheese cloth. Add about 1.5% of vinegar which comes to about 1 Tsp per liter of stock.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Separate meat from bones when feet are still hot.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Pour a little stock into the container.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Place meat on the bottom of the container.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Pour stock carefully into the container.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">Place in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">Cut pork butt across the grain into 1” thick strips and remove excess fat. Mix together all ingredients and coat the pork strips on all sides. Place in a container (plastic Zip-Loc&#174; bag is fine) and keep in refrigerator for 2 days. Turn pork strips over once a day or shake the bag.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">Remove the pork pieces and hang them on S-hooks for 1-2 hours until dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">Preheat smoker to 130&#186; F, (55&#186; C) and if meat feels dry apply smoke for 3 hours. If the surface of the tasso is still wet, hold it inside the smoker (no smoke) until it feels dry. Then in the last hour of smoking try to gradually increase the temperature to about 160&#186; F, (71&#186; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">Increase temperature to 170&#186;-180&#186; F, 77&#186;-82&#186; C, (no smoke necessary) and cook tasso to an internal temperature of 154&#186; F (68&#186; C).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">Store in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Curing solution, 25 deg SAL, (6 Be): Salt, 30 g (5 tsp), Cure #1, 4.5 g (3/4 tsp), Sugar, 5 g (1 tsp), Water, 500 ml</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Remove any membrane and outside fat. Place 1 kg tenderloin in 0.5 l curing solution and cure for 3 days in refrigerator.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Drain for 6 hours.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Make a hanging loop 3 cm (1&quot;) at the thicker end.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Crush garlic and add with paprika to 1 liter od water. Bring to a boil, then dip tenderloins for 30 seconds in the solution.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Hang for 1 hour to dry.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Apply hot smoke 45-60 C, 113-140 F, for 80-90 min, then bake for 20 minutes at 80-85 C, 176-185 F. The tenderloin should reach 60-70 C, 140-158 F internal meat temperature and be of the light brown color.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Cool in the air to &lt; 18 C, 64 F.</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeIngredients">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages5 ID</Column>
+<Column ss:Width="100">recipeIngredient</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages5 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">recipeIngredient</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">Cure #2</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">cloves, ground</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">garlic powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">gelatin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">Cure #2</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">black pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">garlic powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">cumin, ground</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">cloves, ground</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">cinnamon</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">paprika</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">red pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">cold water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">coriander</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">ginger</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">Cure #2</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Sample marinade</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">soy sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">Worcestershire sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">powdered garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">black pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">dried juniper berries, crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Sample marinade</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">soy sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">Worcestershire sauce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">powdered garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">black pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">dried juniper berries, crushed</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">white pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">allspice</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">sage, ground</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">dry milk powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">gelatin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Cure #2</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">suagar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">Spanish paprika</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">garlic powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">white pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">fennel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">red peppers</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">garlic powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">Cure #2</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">black pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">fenugreek seeds</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">cumin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">garlic, powdered</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">red pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">raisins, dry cherries, blueberries, cranberries</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">chopped onion</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">buckwheat flour</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">Optional spices:</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">marjoram, crumbled</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">thyme, crunbled</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">sage, crunbled</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">mace</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">red pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8e16bd8d-d176-4329-8fa7-6e99c6c16de0</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">60&#176; SAL brine:</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">white pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">curry powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">mace</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">ginger</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">cardamom</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">coriander</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">nutmeg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">grated lemon peel</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">non fat dry milk</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">cold water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">white pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">cloves, ground</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">sage, ground</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">dry milk powder</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">cold water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">60&#176; SAL brine:</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">water</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">sugar</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">salt, whole pepper, bay leaf, soup vegetables.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">salt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">Cure #1</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">black pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">cayenne pepper</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">garlic</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">paprika</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">water</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="recipeMaterials">
+<Table x:FullColumns="1" x:FullRows="1">
+<Column ss:Width="100">Meatsandsausages5 ID</Column>
+<Column ss:Width="100">material</Column>
+<Row ss:StyleID="s62">
+<Cell ss:StyleID="s66"><Data ss:Type="String">Meatsandsausages5 ID</Data></Cell>
+<Cell ss:StyleID="s66"><Data ss:Type="String">material</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">back fat (not salted), with skin or without, back fat slab dimensions: about 10-12” long x 3-6” wide x 1” (no skin), 1&#188;” (with skin) thick.</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">477aed3e-a2e2-4dea-be7c-b59a00e170cd</Data></Cell>
+<Cell><Data ss:Type="String">5 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">pork loin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">8dcdabe8-dec2-4480-9ae8-bd703ece52f5</Data></Cell>
+<Cell><Data ss:Type="String">5-6 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">bacon slab with the skin on</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">281a3c27-94d1-49cb-813e-91988c04c6bc</Data></Cell>
+<Cell><Data ss:Type="String">5 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">beef sirloin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5a4a2ec6-b059-4403-995d-0a50f450e291</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">chicken breasts, fully cooked</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9fb25ead-fbb8-47a1-9f45-787ded0ee58b</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">pork butt, boneless. Pork butt weighs about 2.2-2.7 kg (5-6 lbs).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">03fb856f-f536-4de3-b449-eed3352a2e25</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">ham (rear leg)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45cf8d33-080d-4152-9df9-713dad82354f</Data></Cell>
+<Cell><Data ss:Type="String">5 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">lean pork butt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">760eb933-9ce5-4aaa-b157-257b34bc6225</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">pork butt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">27c6ee4d-0996-45db-b32d-5cf9c938adfb</Data></Cell>
+<Cell><Data ss:Type="String">300 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">ham</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7914700c-80c9-4bde-b552-11bd9348a9b7</Data></Cell>
+<Cell><Data ss:Type="String">5-8 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">ham, bone-in</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">910b4831-4dec-4057-9bee-6be1f382990b</Data></Cell>
+<Cell><Data ss:Type="String">8 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">lean pork meat, picnic, 97%</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80f2555c-0b31-4a36-949e-c54306ad3d6e</Data></Cell>
+<Cell><Data ss:Type="String">970 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">beef</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">39f64f2c-6d78-4e8e-a02c-f840e26c086d</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">venison</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">c3a19a84-f11f-4712-93d6-b5b277731575</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">pork liver</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">ccf561ad-c825-4ae4-93cb-9674df7f35c2</Data></Cell>
+<Cell><Data ss:Type="String">400 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">pork loin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">9d49590c-f677-444f-8fc0-c093bea27dd3</Data></Cell>
+<Cell><Data ss:Type="String">5-6 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">pork belly (pork belly slab may weigh about 4.5 kg (10 lbs).</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">59458646-c98d-4da7-afe4-531e6f0b38ec</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">beef</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6ea2359e-6ccd-4914-b99a-32c9eca3ae88</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">Beef brisket</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">7bb17514-29a4-4a18-a30b-59fc0e77d46a</Data></Cell>
+<Cell><Data ss:Type="String">1 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">dry beef jerky</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bc3a1e79-0fa7-4be7-ba0d-32c6dd76b817</Data></Cell>
+<Cell><Data ss:Type="String">500 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">pork meat (heart, tongue, liver, head meat, brains, kidneys, jowls, picnics, legs)</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">fdf7c1b6-8775-4d0a-9a8b-da720a820d5c</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">Pork butt, boneless or with bone</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">f21870fc-e8db-4b54-99eb-dcf6ceb4bc58</Data></Cell>
+<Cell><Data ss:Type="String">2.7 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">lean pork</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">d15ca0fd-ce58-474e-a039-35ff72d89578</Data></Cell>
+<Cell><Data ss:Type="String">600 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">pork</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">6fd5cd02-0a93-420b-ba09-dc50faf6bf91</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">pork loin without bone</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bfa82454-b3a0-4a35-b2d4-33cd46d562ce</Data></Cell>
+<Cell><Data ss:Type="String">2 kg</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String">pigs feet</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">b01144b4-ae46-40a2-a99d-f3fab309b9fb</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">pork butt</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">07f8e622-5ea9-42ec-b4fc-10cbd3943cfd</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">Pork tenderloin</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">bafe3b60-6523-4bc3-9f01-96e17d346d84</Data></Cell>
+<Cell><Data ss:Type="String">1000 g</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
