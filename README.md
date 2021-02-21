@@ -70,6 +70,7 @@ Throughout our journey of exploring recipes, we have come across various constit
 | recipeInstructions | 	Recipe Instructions  are all the steps that make up the “how-to” part of the recipe, mainly the directions to follow |
 | step	| step is a single direction from the recipe instructions list |
 
+![image](https://user-images.githubusercontent.com/75631472/108617460-6a93e500-7438-11eb-920f-f15a0953ceed.png)
 
 ## Recipe Models:
 While exploring recipes, the models of recipes we see never remain consistent. Studying a wide range of models and inspecting those models side by side, I would like to mention the commonly occurring models below:
